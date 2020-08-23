@@ -96,7 +96,7 @@ body {
 
 #log .meta {
     width: 25%;
-    text-align: left;
+    text-align: right;
     padding-right: 1em;
     white-space: nowrap;
     text-overflow: ellipsis;
@@ -105,7 +105,7 @@ body {
 
 #log .message {
     word-wrap: break-word;
-    width: 100%;
+    width: 85%;
   
   background-color: rgba(75,75,75,0.8);
   box-shadow: 0 0.5em 2rem rgba(38,50,56,0.1);
